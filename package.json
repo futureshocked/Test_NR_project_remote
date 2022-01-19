@@ -2,7 +2,9 @@
     "name": "Test_NR_project",
     "description": "Just learning about NR projects",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-ifttt": "0.3.1"
+    },
     "node-red": {
         "settings": {
             "flowFile": "test_flow.json",
