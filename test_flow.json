@@ -41,7 +41,8 @@
         "wires": [
             [
                 "6deee035eec968ab",
-                "eadf23556cda0a47"
+                "eadf23556cda0a47",
+                "8ef06282bb3137be"
             ]
         ]
     },
@@ -68,6 +69,22 @@
         "eventName": "event1",
         "x": 660,
         "y": 400,
+        "wires": []
+    },
+    {
+        "id": "8ef06282bb3137be",
+        "type": "debug",
+        "z": "43e35fb9e14fbc59",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 680,
+        "y": 500,
         "wires": []
     },
     {
