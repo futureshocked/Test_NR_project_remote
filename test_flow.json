@@ -40,7 +40,8 @@
         "y": 300,
         "wires": [
             [
-                "6deee035eec968ab"
+                "6deee035eec968ab",
+                "eadf23556cda0a47"
             ]
         ]
     },
@@ -58,6 +59,15 @@
         "statusType": "auto",
         "x": 660,
         "y": 300,
+        "wires": []
+    },
+    {
+        "id": "eadf23556cda0a47",
+        "type": "ifttt out",
+        "z": "43e35fb9e14fbc59",
+        "eventName": "event1",
+        "x": 660,
+        "y": 400,
         "wires": []
     },
     {
